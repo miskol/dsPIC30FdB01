@@ -1,4 +1,7 @@
 # dsPIC30FdB01
+
+![Emcee Technologies](Docs/EmceeTech.jpg)
+
 Start-up development board for dsPIC30F6014A - miskoL
 
 dsPIC30FdB01 Programming Examples.
